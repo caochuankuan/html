@@ -1,0 +1,41 @@
+body{
+	background-image:url(sx.jpg);
+}
+.k{
+	margin: 0 auto;
+	width: 1000px;
+	height: 600px;
+	text-align: center;
+}
+.k1{
+	background-color:#0F3;;
+	width:1000px;
+	height:100px;
+	padding-top:70px;
+}
+.k2{
+	background-color:#F69;
+	width:300px;
+	height:500px;
+	float:left;
+	color:green;
+}
+.k3{
+	background-color:#999;
+	width:700px;
+	height:500px;
+	float:left;
+}
+.k4{
+	text-decoration:none;
+	margin-right:20px;
+}
+.k5{
+	text-decoration:overline;
+	margin:0px 20px 0px 20px;
+}
+.k6{
+	text-decoration:line-through;
+	margin-left:20px;
+	margin-right:20px;
+}

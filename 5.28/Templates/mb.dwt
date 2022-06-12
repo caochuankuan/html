@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>w3school</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+*{margin:0px;padding:0px;}
+a{text-decoration:none;}
+.header{color:#F00;height:50px;background-color: #f2f3fa;margin-left:5px;}
+.head{margin:auto 31px;font-size:23px;}
+.kuan{width:1000px;margin:0 auto;background-color: #f2f3fa;}
+.kuan1{width:100px;height:600px;background-color: #f2f3fa;float:left;text-align:center;}
+.kuan2{width:900px;height:600px;float:right;}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="kuan">
+<h1 class="header">W3school</h1>
+<a class="head" href="">HTML</a><a class="head" href="">CSS</a><a class="head" href="">Javascript</a><a class="head" href="">XML</a><a class="head" href="">网站建设</a><a class="head" href="">浏览器支持</a><a class="head" href="">关于我们</a>
+<div class="kuan1">
+<div class="kuan1">
+<br />&lt;html&gt;
+<br /><br /><a href="">&lt;head&gt;</a>
+<br /><br /><a href="">&lt;style&gt;</a>
+<br /><br /><a href="">&lt;body&gt;</a>
+<br /><br /><a href="">&lt;a&gt;</a>
+<br /><br /><a href="">&lt;div&gt;</a>
+<br /><br /><a href="">&lt;table&gt;</a>
+<br /><br /><a href="">&lt;frame&gt;</a>
+<br /><br /><a href="">&lt;ul/ol&gt;</a>
+<br /><br /><a href="">&lt;span&gt;</a>
+<br /><br /><a href="">&lt;img&gt;</a>
+<br /><br /><a href="">&lt;br&gt;</a>
+<br /><br /><a href="">&lt;hr&gt;</a>
+</div>
+</div>
+<div class="kuan2">
+<!-- TemplateBeginEditable name="neirong" -->neirong<!-- TemplateEndEditable -->
+</div>
+</div>
+</body>
+</html>
